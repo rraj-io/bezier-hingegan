@@ -1,0 +1,8 @@
+trained_gan/*
+__pycache__/*
+bezierGan/__pycache__/*
+./nohup.out
+cp_33_2.txt
+output_3_10.log
+w_33_1.txt
+
