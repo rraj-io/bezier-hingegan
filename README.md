@@ -23,16 +23,6 @@ The model improves training stability and diversity using a **hinge-loss based d
 
 --- 
 
-## 
-
-%# Bezier-HingeGAN
-
-%Bezier-HingeGAN is a PyTorch implementation of a generative adversarial network for stable and diverse aerodynamic and hydrodynamic shape generation using a hinge loss formulation. The model extends the original Bezier-GAN concept by directly generating Bezier control points and associated weights, enabling smooth, parametric geometry synthesis suitable for engineering design and optimization workflows.
-
-%Unlike conventional GANs that output pixels or unordered point clouds, Bezier-HingeGAN produces structured Bezier representations that can be directly converted into airfoil or hydrofoil geometries. This makes the framework particularly well suited for aerodynamic blade design, hydroturbine sections, surrogate-based optimization, and CFD-coupled pipelines.
-
----
-
 ## Repository Structure
 
     bezier-hingegan/
